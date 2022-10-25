@@ -20,7 +20,7 @@ Please cite our paper if you find it helpful in your work:
 @article{izmailov2022feature,
   title={On Feature Learning in the Presence of Spurious Correlations},
   author={Izmailov, Pavel and Kirichenko, Polina and Gruver, Nate and Wilson, Andrew Gordon},
-  journal={TODO},
+  journal={arXiv preprint arXiv:2210.11369},
   year={2022}
 }
 ```
