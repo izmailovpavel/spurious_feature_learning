@@ -32,7 +32,3 @@ from .data_transforms import AlbertTokenizeTransform
 from .data_transforms import DebertaTokenizeTransform
 from .augmix_transforms import ImageNetAugmixTransform
 
-from .imagenet_datasets import get_imagenet_like
-from .imagenet_datasets import get_imagenet
-from .imagenet_datasets import get_bg_challenge
-from .imagenet_datasets import get_imagenet_arc

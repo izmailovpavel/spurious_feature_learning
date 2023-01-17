@@ -4,7 +4,7 @@ import torch.nn as nn
 import torchvision
 import types
 import timm
-import mae.models_vit as mae
+#import mae.models_vit as mae
 
 from .preresnet import PreResNet
 from .text_models import albert_pretrained
